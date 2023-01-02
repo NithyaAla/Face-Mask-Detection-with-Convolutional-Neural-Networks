@@ -1,0 +1,3 @@
+1915 images of people wearing a face mask &
+1918 images of people not wearing a face mask collected from various sources on the internet 
+have been used to train the model. 
